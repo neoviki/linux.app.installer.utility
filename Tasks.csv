@@ -1,0 +1,4 @@
+Nr, Task
+1, Add support for python app with local lib/package dependencies. 
+2, Add support to add the src/* to an application folder under /usr/local/bin/<app_folder> and add the path to bashrc
+
